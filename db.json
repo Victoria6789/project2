@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "user1@gmail.com",
+      "password": "User1234",
+      "createdAt": 1700313547023
+    }
+  ],
+  "notes": []
+}
